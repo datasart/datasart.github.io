@@ -1,3 +1,3 @@
 # DataSart's Website
 
-This is DataSart Website
+The website will be available soon!
