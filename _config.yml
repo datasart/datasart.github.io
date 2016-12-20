@@ -10,7 +10,7 @@ description: "A Machine Learning Based Startup"
 # Team names, titles and social links
 people:
 - name: Mai Xuan Trang
-  pic: trang
+  pic: 1
   position: Co-Founder
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Vu Anh Duc
-  pic: duc
+  pic: 2
   position: Co-Founder
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
 
 - name: Nguyen Hung Cuong
-  pic: cuong
+  pic: 3
   position: Co-Founder
   social:
     - title: twitter
