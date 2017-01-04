@@ -343,6 +343,21 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+aside h2.section-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+
+aside h3.section-subheading {
+    margin-bottom: 75px;
+    text-transform: none;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+}
+
 @media(min-width:768px) {
     section {
         padding: 150px 0;
