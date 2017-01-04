@@ -11,7 +11,7 @@ description: "A Machine Learning Based Startup"
 people:
 - name: Mai Xuan Trang
   pic: 1
-  position: Co-Founder
+  position:
   social:
     - title: twitter
       url: https://twitter.com/DataSart
@@ -22,7 +22,7 @@ people:
 
 - name: Vu Anh Duc
   pic: 2
-  position: Co-Founder
+  position:
   social:
     - title: twitter
       url: https://twitter.com/DataSart
@@ -33,7 +33,7 @@ people:
 
 - name: Nguyen Hung Cuong
   pic: 3
-  position: Co-Founder
+  position:
   social:
     - title: twitter
       url: https://twitter.com/DataSart
@@ -49,9 +49,9 @@ social:
   - title: facebook
     url:
   - title: stack-overflow
-    url: 
-  - title: bitbucket 
-    url: 
+    url:
+  - title: bitbucket
+    url:
   - title: github
     url: https://github.com/datasart
 
