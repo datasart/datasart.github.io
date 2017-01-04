@@ -15,11 +15,10 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/DataSart
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
+    #- title: facebook
+     # url: #
+    - title: linkedin
+      url: https://vn.linkedin.com/in/trangmx
 - name: Vu Anh Duc
   pic: 2
   position:
@@ -29,7 +28,7 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://vn.linkedin.com/in/ducva
 
 - name: Nguyen Hung Cuong
   pic: 3
@@ -38,20 +37,20 @@ people:
     - title: twitter
       url: https://twitter.com/DataSart
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/nhcuong269
+    #- title: google-plus
+      #url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/DataSart
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url:
-  - title: bitbucket
-    url:
+  #- title: facebook
+    #url:
+  #- title: stack-overflow
+    #url:
+  #- title: bitbucket
+    #url:
   - title: github
     url: https://github.com/datasart
 
