@@ -11,7 +11,7 @@ description: "A Machine Learning Based Startup"
 people:
 - name: Vu Anh Duc
   pic: 2
-  position:
+  position: CEO
   social:
     - title: twitter
       url: https://twitter.com/DataSart
@@ -21,7 +21,7 @@ people:
       url: https://vn.linkedin.com/in/ducva
 - name: Mai Xuan Trang
   pic: 1
-  position:
+  position: Co-Founder
   social:
     - title: twitter
       url: https://twitter.com/DataSart
@@ -31,12 +31,23 @@ people:
       url: https://vn.linkedin.com/in/trangmx
 - name: Nguyen Hung Cuong
   pic: 3
-  position:
+  position: CTO
   social:
     - title: twitter
       url: https://twitter.com/DataSart
     - title: facebook
       url: https://www.facebook.com/nhcuong269
+    #- title: google-plus
+      #url: #
+
+- name: Trinh Quyet Thang
+  pic: 4
+  position: Junior Leader
+  social:
+    - title: twitter
+      url: https://twitter.com/DataSart
+    - title: facebook
+      url: https://www.facebook.com/love.to.be.love.by.sn
     #- title: google-plus
       #url: #
 
