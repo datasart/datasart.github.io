@@ -50,7 +50,16 @@ people:
       url: https://www.facebook.com/love.to.be.love.by.sn
     #- title: google-plus
       #url: #
-
+- name: Nguyen Tu Lam
+  pic: Tu
+  position: COO
+  social:
+    - title: twitter
+      url: https://twitter.com/DataSart
+    - title: facebook
+      url: https://www.facebook.com/tu.lam.3
+    #- title: google-plus
+      #url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
